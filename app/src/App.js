@@ -1,8 +1,8 @@
 import "./App.css";
+import avatar from "./images/image-avatar.png";
+import clock from "./images/icon-clock.svg";
 import equilibrium from "./images/image-equilibrium.jpg";
 import ethereum from "./images/icon-ethereum.svg";
-import clock from "./images/icon-clock.svg";
-import avatar from "./images/image-avatar.png";
 
 function App() {
   let equilibriumRng = Math.floor(Math.random() * 255 + 1);
